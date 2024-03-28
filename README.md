@@ -1,6 +1,6 @@
 # Whisper Transcription Front-end
 
-<img title="" src="file:///home/admin/projects/active/Whisper%20Frontend/README/first_start.png" alt="Alt text" data-align="inline" width="525">
+<img title="" src="/README/first_start.png" alt="Alt text" data-align="inline" width="525">
 
 ---
 
@@ -26,7 +26,7 @@
   
   - Saves selected directory as a global variable
   
-  - ![file picker](/home/admin/projects/active/Whisper%20Frontend/README/file_picker.png)
+  - ![file picker](/README/file_picker.png)
 
 - Label: Prints the input folder variable, in addition to the input file is the automatic file selection flag is checked
 
@@ -76,7 +76,7 @@
 
 - Program window is automatically resized based on UI scaling
 
-- <img src="file:///home/admin/projects/active/Whisper%20Frontend/README/120_Scaling.png" title="" alt="120% UI Scaling" width="590">
+- <img src="/README/120_Scaling.png" title="" alt="120% UI Scaling" width="590">
 
 
 
